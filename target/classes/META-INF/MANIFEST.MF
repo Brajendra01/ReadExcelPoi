@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Airtel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: brajendrasingh
+Implementation-Vendor-Id: airtel
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Airtel
+Created-By: Maven Integration for Eclipse
+
